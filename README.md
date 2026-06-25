@@ -82,7 +82,7 @@ API'den gerçek yanıt yerine önceden hazırlanmış örnek veriler gösterilir
 Bu sayede:
 - Proje her ortamda sorunsuz çalışır
 - API anahtarı kotası bitse bile uygulama çökmez
-- Hoca projeyi incelerken herhangi bir hata görmez
+- Kullanıcı projeyi incelerken herhangi bir hata görmez
 
 ---
 
