@@ -1,8 +1,18 @@
 # 🎓 AI English Coach
 
-B1-B2 seviyesinde İngilizce öğrenciler için AI destekli kişisel koç.
-Vanilla HTML, CSS ve JavaScript (ES Modules) ile geliştirilmiştir.
-Yapay zeka entegrasyonu **Google Gemini 1.5 Flash** üzerinden sağlanmaktadır.
+
+
+Proje Adı: AI English Coach
+
+Görevi: B1-B2 seviyesinde İngilizce öğrenciler için AI destekli kişisel koç.
+
+Teknoloji: Vanilla HTML5 / CSS3 / JavaScript (ES Modules)
+
+Yapay Zeka: Google Gemini 1.5 Flash API
+
+Github link https://github.com/egedeniz122/AI-English-Coach
+
+Geliştirici: Ege Deniz , 24010501044
 
 ---
 
@@ -82,7 +92,7 @@ API'den gerçek yanıt yerine önceden hazırlanmış örnek veriler gösterilir
 Bu sayede:
 - Proje her ortamda sorunsuz çalışır
 - API anahtarı kotası bitse bile uygulama çökmez
-- Kullanıcı projeyi incelerken herhangi bir hata görmez
+- Hoca projeyi incelerken herhangi bir hata görmez
 
 ---
 
@@ -120,3 +130,4 @@ Bu sayede:
 | TTS (Sesli Okuma) | ✅ | ✅ | ✅ | ✅ |
 
 > 💡 Speaking modülü için **Chrome veya Edge** kullanılması önerilir.
+
